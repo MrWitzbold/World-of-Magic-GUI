@@ -351,103 +351,103 @@ close.TextSize = 20.000
 
 -- Scripts:
 
-local function GKLW_fake_script() -- ironport.LocalScript 
+local function VXNCOE_fake_script() -- ironport.LocalScript 
 	local script = Instance.new('LocalScript', ironport)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-19736.3, 129.7, -6182.8))
 	end)
 end
-coroutine.wrap(GKLW_fake_script)()
-local function CBHEJAS_fake_script() -- Ironport_vault.LocalScript 
+coroutine.wrap(VXNCOE_fake_script)()
+local function MFHEVY_fake_script() -- Ironport_vault.LocalScript 
 	local script = Instance.new('LocalScript', Ironport_vault)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-20051, 132, -6201.6))
 	end)
 end
-coroutine.wrap(CBHEJAS_fake_script)()
-local function HMRNP_fake_script() -- silent_tower.LocalScript 
+coroutine.wrap(MFHEVY_fake_script)()
+local function GUNRDA_fake_script() -- silent_tower.LocalScript 
 	local script = Instance.new('LocalScript', silent_tower)
 
 	script.Parent.MouseButton1Click:connect(function()
-		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(16657, 140.7, -5384.8))
+		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-16657.2129, 140.7, -5341.9))
 	end)
 end
-coroutine.wrap(HMRNP_fake_script)()
-local function MMSLW_fake_script() -- silent_tower_chests.LocalScript 
+coroutine.wrap(GUNRDA_fake_script)()
+local function WNFA_fake_script() -- silent_tower_chests.LocalScript 
 	local script = Instance.new('LocalScript', silent_tower_chests)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-16681.4, 288.2, -4841.4))
 	end)
 end
-coroutine.wrap(MMSLW_fake_script)()
-local function TJXSSCS_fake_script() -- riverville.LocalScript 
+coroutine.wrap(WNFA_fake_script)()
+local function FEOTYE_fake_script() -- riverville.LocalScript 
 	local script = Instance.new('LocalScript', riverville)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-18258.4, 130.1, -4813.6))
 	end)
 end
-coroutine.wrap(TJXSSCS_fake_script)()
-local function QQQCUUS_fake_script() -- riverville_vault.LocalScript 
+coroutine.wrap(FEOTYE_fake_script)()
+local function BIGJ_fake_script() -- riverville_vault.LocalScript 
 	local script = Instance.new('LocalScript', riverville_vault)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-18442.1, 131.2, -4977))
 	end)
 end
-coroutine.wrap(QQQCUUS_fake_script)()
-local function IUDQ_fake_script() -- summerhold_vault.LocalScript 
+coroutine.wrap(BIGJ_fake_script)()
+local function DEFDHV_fake_script() -- summerhold_vault.LocalScript 
 	local script = Instance.new('LocalScript', summerhold_vault)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-16413.7, 134.2, -8167.2))
 	end)
 end
-coroutine.wrap(IUDQ_fake_script)()
-local function HGMGXK_fake_script() -- summerhold.LocalScript 
+coroutine.wrap(DEFDHV_fake_script)()
+local function HIUKIIV_fake_script() -- summerhold.LocalScript 
 	local script = Instance.new('LocalScript', summerhold)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-16268, 129.7, -7779.5))
 	end)
 end
-coroutine.wrap(HGMGXK_fake_script)()
-local function ABVUM_fake_script() -- summerhold_king_vault.LocalScript 
+coroutine.wrap(HIUKIIV_fake_script)()
+local function DBOCG_fake_script() -- summerhold_king_vault.LocalScript 
 	local script = Instance.new('LocalScript', summerhold_king_vault)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-16228.3, 232.1, -8187.2))
 	end)
 end
-coroutine.wrap(ABVUM_fake_script)()
-local function QEQU_fake_script() -- bell_village.LocalScript 
+coroutine.wrap(DBOCG_fake_script)()
+local function PNVBC_fake_script() -- bell_village.LocalScript 
 	local script = Instance.new('LocalScript', bell_village)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-14542.3, 129.7, -3956.6))
 	end)
 end
-coroutine.wrap(QEQU_fake_script)()
-local function DQTTV_fake_script() -- bell_village_vault.LocalScript 
+coroutine.wrap(PNVBC_fake_script)()
+local function UQXOJJW_fake_script() -- bell_village_vault.LocalScript 
 	local script = Instance.new('LocalScript', bell_village_vault)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(Vector3.new(-14320, 130.6, -3814.3))
 	end)
 end
-coroutine.wrap(DQTTV_fake_script)()
-local function RQZGJIV_fake_script() -- speed_button.LocalScript 
+coroutine.wrap(UQXOJJW_fake_script)()
+local function AHVRF_fake_script() -- speed_button.LocalScript 
 	local script = Instance.new('LocalScript', speed_button)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = tonumber(script.Parent.Parent:FindFirstChild("speed_textbox").Text)
 	end)
 end
-coroutine.wrap(RQZGJIV_fake_script)()
-local function IVOXWY_fake_script() -- nagatoro_h4x.LocalScript 
+coroutine.wrap(AHVRF_fake_script)()
+local function UAOU_fake_script() -- nagatoro_h4x.LocalScript 
 	local script = Instance.new('LocalScript', nagatoro_h4x)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -501,8 +501,8 @@ local function IVOXWY_fake_script() -- nagatoro_h4x.LocalScript
 		end
 	end)
 end
-coroutine.wrap(IVOXWY_fake_script)()
-local function FNUJE_fake_script() -- btools.LocalScript 
+coroutine.wrap(UAOU_fake_script)()
+local function WVZY_fake_script() -- btools.LocalScript 
 	local script = Instance.new('LocalScript', btools)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -525,20 +525,20 @@ local function FNUJE_fake_script() -- btools.LocalScript
 		Instance.new("HopperBin", game.Players.LocalPlayer.Backpack).BinType = 4
 	end)
 end
-coroutine.wrap(FNUJE_fake_script)()
-local function JZVPX_fake_script() -- open.LocalScript 
+coroutine.wrap(WVZY_fake_script)()
+local function TGPCC_fake_script() -- open.LocalScript 
 	local script = Instance.new('LocalScript', open)
 
 	script.Parent.MouseButton1Click:connect(function()
 		script.Parent.Parent.Parent:FindFirstChild("main").Visible = true
 	end)
 end
-coroutine.wrap(JZVPX_fake_script)()
-local function MANU_fake_script() -- close.LocalScript 
+coroutine.wrap(TGPCC_fake_script)()
+local function WQWRUHU_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:connect(function()
 		script.Parent.Parent.Parent:FindFirstChild("main").Visible = false
 	end)
 end
-coroutine.wrap(MANU_fake_script)()
+coroutine.wrap(WQWRUHU_fake_script)()
